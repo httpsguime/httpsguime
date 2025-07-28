@@ -1,8 +1,8 @@
 ### Olá! meu nome é Guilherme Campos 👋
 
-- 🔭 Estou procurando por uma primeira oportunidade de trabalho.
-- 🌱 Estudando: Javascript / Typescript / Java.
-- 🤔 Áreas de interece: Dev. web / Dev. mobile / Analista de Dados.
+- 🔭 Estou procurando por uma oportunidade de trabalho na área de tecnologia.
+- 🌱 Estudando: Javascript / Python / C++.
+- 🤔 Áreas de interece: Dev. web / Dev. mobile / Análise de Dados.
 
  <div>
   <a href="https://github.com/httpsguime">
