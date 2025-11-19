@@ -1,7 +1,7 @@
 ### Olá! meu nome é Guilherme Campos 👋
 
 - 🔭 Estou procurando por uma oportunidade de trabalho na área de tecnologia.
-- 🌱 Estudando: Javascript / Python / C++.
+- 🌱 Estudando: React / .NET / Python.
 - 🤔 Áreas de interece: Dev. web / Dev. mobile / Análise de Dados.
 
  <div>
